@@ -96,11 +96,11 @@ Before writing code, verify:
 
 Each component lives in its own repository and links back here:
 
-- **[REIVM](../REIVM)**: Virtual machine implementation
+- **[REIVM](https://github.com/rei-project/REIVM)**: Virtual machine implementation
   - Reads: [MANIFESTO.md](MANIFESTO.md), [components/REIVM.md](components/REIVM.md)
   - Implements: Stack, dictionary, execution engine, observer interface
   
-- **[REIMON](../REIMON)**: Monitor/REPL implementation  
+- **[REIMON](https://github.com/rei-project/REIMON)**: Monitor/REPL implementation  
   - Reads: [MANIFESTO.md](MANIFESTO.md), [components/REIMON.md](components/REIMON.md)
   - Implements: REPL, MCP tools, display formatting, session management
 
