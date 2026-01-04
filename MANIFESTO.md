@@ -130,6 +130,3 @@ REI is a framework for:
 * machines that write machines
 
 If this feels unfamiliar, that is intentional.
-
-
-Just say where you want to go next.
