@@ -252,11 +252,6 @@ We say: **Word collection** or **dictionary subset**
 
 *Why*: REI doesn't have an import/export model (yet). Words are just... available in the dictionary.
 
-### ❌ "Framework"
-We say: **REI** (it's sui generis)
-
-*Why*: Framework implies you build apps *in* it. REI is more fundamental - you build *with* it, but it doesn't structure your application.
-
 ---
 
 ## Usage Guidelines for LLMs
